@@ -480,7 +480,7 @@ public class staffrec_add extends javax.swing.JFrame {
                 }
             }
         }
-        return number;
+        return number+1;
     }
     
     // Variables declaration - do not modify//GEN-BEGIN:variables
